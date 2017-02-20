@@ -1,2 +1,1 @@
-# spokotech
-c# stay out
+system.console.WriteLine("hello world");
